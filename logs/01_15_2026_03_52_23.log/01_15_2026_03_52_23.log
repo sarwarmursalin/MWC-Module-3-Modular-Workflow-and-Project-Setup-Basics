@@ -1,0 +1,5 @@
+[ 2026-01-15 03:52:23,738 ] 51 root - ERROR - 
+Error occurred in Python script:
+→ File: /Users/golamsarwarmdmursalin/Desktop/Coding/Academics/Poridhi/MWC-Module-3-Modular-Workflow-and-Project-Setup-Basics/test-logging-integration-app.py
+→ Line number: 9
+→ Error message: division by zero
